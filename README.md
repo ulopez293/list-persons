@@ -22,7 +22,7 @@ en el disco duro, pero le solicitan que todo el archivo debe ser pasado a
 mayúsculas, ¿cómo lo haría?
 
 ```
-.toLowerCase()
+.toUpperCase()
 ```
 
 
