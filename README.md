@@ -1,7 +1,5 @@
 # List-persons
 
-### Preguntas
-
 1. Está recibiendo dos flujos de datos de dos sensores de temperatura (2
 observables que devuelven números enteros), ¿qué operador de RxJS utilizaría
 para recibir estos dos datos en la misma suscripción?
